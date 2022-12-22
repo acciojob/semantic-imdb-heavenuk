@@ -1,2 +1,9 @@
-
+body{
+    width:100vw;
+    height:100vh;
+    margin:50px 25px;
+}
+span{
+    margin-left:30px;
+}
 /* Your CSS Code here. */
